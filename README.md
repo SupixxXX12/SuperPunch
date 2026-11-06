@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/superpunch-banner.svg" alt="SuperPunch: a Story Mode melee mod for RDR2" width="100%">
+  <img src="header.jpg" alt="SuperPunch header" width="100%">
   <br>
   <a href="https://github.com/SupixxXX12/SuperPunch/releases"><img src="https://img.shields.io/badge/Download-Releases-c9783f?style=for-the-badge&logo=github&logoColor=white" alt="Get SuperPunch from Releases"></a>
   <a href="https://www.nexusmods.com/reddeadredemption2/mods/56"><img src="https://img.shields.io/badge/Required-ScriptHookRDR2-8b5a36?style=for-the-badge" alt="ScriptHookRDR2 requirement"></a>
@@ -18,6 +18,14 @@ SuperPunch gives fistfights a bigger, more cinematic feel in **Red Dead Redempti
 > [!WARNING]
 > **Story Mode only. Do not use SuperPunch in Red Dead Online.** The mod automatically disables itself when you connect to Online, but it is not an Online mod. Do not rely on that behavior as a substitute for keeping mods out of Online.
 
+## Mod menu preview
+
+A look at the in-game SuperPunch menu. The preview shows the available adjustments and toggles. Experimental options are labeled in the menu.
+
+<div align="center">
+  <img src="assets/mod-menu-preview.png" alt="SuperPunch in-game mod menu preview" width="100%">
+</div>
+
 ## Features
 
 | Feature | What it adds |
@@ -25,7 +33,14 @@ SuperPunch gives fistfights a bigger, more cinematic feel in **Red Dead Redempti
 | **Over-the-top punches** | Turns fistfights into exaggerated, high-impact brawling moments. |
 | **Cinematic follow cam** | Adds a dramatic camera feel that follows the action during fights. |
 | **Custom effects** | Brings extra visual flair to the mod's punch moments. |
-| **Story Mode focus** | Made for single-player Story Mode, not Red Dead Online. |
+| **Adjustable launch distance** | Lets you adjust how far a punch sends an opponent. |
+| **Upward lift ratio** | Adjusts the upward lift during a punch. |
+| **Extra damage** | Lets you tune the impact of punches. |
+| **Ragdoll duration** | Adjusts how long an opponent remains in a ragdoll state. |
+| **Custom VFX toggle** | Enables or disables the custom visual effects. |
+| **Yeet Camera toggle** | Enables or disables the cinematic follow camera. |
+| **Experimental options** | Includes experimental features marked as such in the menu. Use them at your discretion. |
+| **Reset defaults** | Restores the menu's default values for the current session. |
 
 SuperPunch's implementation is private. This page describes the player-facing experience and does not document internal code or implementation details.
 
