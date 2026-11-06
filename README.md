@@ -23,7 +23,7 @@ SuperPunch gives fistfights a bigger, more cinematic feel in Red Dead Redemption
 A look at the in-game SuperPunch menu. The preview shows the available adjustments and toggles. Experimental options are labeled in the menu.
 
 <div align="center">
-  <a href="https://postimg.cc/crwNfQpK"><img src="https://i.postimg.cc/HsPsDz3t/Screenshot-(87).png" alt="SuperPunch in-game mod menu preview" width="100%"></a>
+  <img src="https://i.postimg.cc/HsPsDz3t/Screenshot-(87).png" alt="SuperPunch in-game mod menu preview" width="100%">
 </div>
 
 ## Features
