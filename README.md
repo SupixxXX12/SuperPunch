@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.jpg" alt="SuperPunch header" width="100%">
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961" alt="SuperPunch header" width="100%">
   <br>
   <a href="https://github.com/SupixxXX12/SuperPunch/releases"><img src="https://img.shields.io/badge/Download-Releases-c9783f?style=for-the-badge&logo=github&logoColor=white" alt="Get SuperPunch from Releases"></a>
   <a href="https://www.nexusmods.com/reddeadredemption2/mods/56"><img src="https://img.shields.io/badge/Required-ScriptHookRDR2-8b5a36?style=for-the-badge" alt="ScriptHookRDR2 requirement"></a>
